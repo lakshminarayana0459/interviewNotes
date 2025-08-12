@@ -3,3 +3,13 @@ public static void main(String[] args){
  System.out.print("Hello world");
 }
 }
+
+
+ /*
+ To compile .java file if no erros it will create .class as in above
+   cmd : > javac Hello.java
+ */
+
+/* Once .class file create we can use for exicustion
+ >java Hello
+ */
